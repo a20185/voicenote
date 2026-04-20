@@ -1,0 +1,10 @@
+{
+  "optimizationConfig": "Transcription Optimization",
+  "optimizationEnabled": "Enable Optimization",
+  "optimizationLevelLight": "Light",
+  "optimizationLevelLightDesc": "Rule-based cleanup only",
+  "optimizationLevelMedium": "Medium",
+  "optimizationLevelMediumDesc": "Cleanup + LLM polish",
+  "optimizationLevelHeavy": "Heavy",
+  "optimizationLevelHeavyDesc": "Full LLM rewriting"
+}

@@ -1,0 +1,15 @@
+{
+  "recording": "録音中",
+  "transcribing": "文字起こし中...",
+  "paused": "一時停止",
+  "tapToRecord": "下のボタンをタップして録音開始",
+  "swipeToCancel": "上にスワイプでキャンセル",
+  "releaseToSend": "離して送信",
+  "editTranscription": "文字起こしを編集...",
+  "asrNotConfigured": "ASRサービスが未設定のため、文字起こし機能は利用できません",
+  "recordingInProgress": "録音中",
+  "recordingComplete": "録音完了",
+  "raw": "原文",
+  "optimized": "最適化",
+  "optimizing": "最適化中..."
+}

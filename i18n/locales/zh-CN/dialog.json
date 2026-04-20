@@ -1,0 +1,15 @@
+{
+  "archiveTitle": "归档笔记",
+  "archiveMessage": "确定要将此笔记归档吗？归档后可在归档标签页中查看。",
+  "archiveConfirm": "确认归档",
+  "deleteTitle": "删除笔记",
+  "deleteMessage": "确定要删除此笔记吗？此操作不可撤销。",
+  "confirmAction": "确认操作",
+  "confirmMessage": "您确定要对选中的 {{count}} 项笔记执行\"{{action}}\"操作吗？",
+  "mergeTitle": "合并预览",
+  "mergeInfo": "{{count}} 条笔记 · {{chars}} 字符",
+  "mergeMediaWarning": "部分笔记包含媒体文件，合并后仅保留文本内容",
+  "mergePreserveHint": "原始笔记将被保留",
+  "merging": "合并中...",
+  "confirmMerge": "确认合并"
+}

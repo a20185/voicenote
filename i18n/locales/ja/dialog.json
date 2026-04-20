@@ -1,0 +1,16 @@
+{
+  "archiveTitle": "ノートをアーカイブ",
+  "archiveMessage": "このノートをアーカイブしますか？アーカイブタブで確認できます。",
+  "archiveConfirm": "アーカイブ確認",
+  "deleteTitle": "ノートを削除",
+  "deleteMessage": "このノートを削除しますか？この操作は取り消せません。",
+  "deleteConfirm": "削除",
+  "confirmAction": "操作を確認",
+  "confirmMessage": "選択した {{count}} 件のノートに「{{action}}」を実行しますか？",
+  "mergeTitle": "マージプレビュー",
+  "mergeInfo": "{{count}} 件のノート · {{chars}} 文字",
+  "mergeMediaWarning": "一部のノートにメディアファイルが含まれています。マージ後はテキストのみ保持されます",
+  "mergePreserveHint": "元のノートは保持されます",
+  "merging": "マージ中...",
+  "confirmMerge": "マージ確認"
+}

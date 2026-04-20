@@ -1,0 +1,10 @@
+{
+  "optimizationConfig": "전사 최적화",
+  "optimizationEnabled": "최적화 활성화",
+  "optimizationLevelLight": "가벼움",
+  "optimizationLevelLightDesc": "규칙 기반 정리만",
+  "optimizationLevelMedium": "중간",
+  "optimizationLevelMediumDesc": "정리 + LLM 다듬기",
+  "optimizationLevelHeavy": "강력함",
+  "optimizationLevelHeavyDesc": "전체 LLM 재작성"
+}

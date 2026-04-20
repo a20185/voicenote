@@ -1,0 +1,21 @@
+{
+  "placeholder": "Search notes...",
+  "history": "Search History",
+  "clear": "Clear",
+  "clearAll": "Clear All",
+  "noResults": "No notes found",
+  "results": "Search Results",
+  "resultCount": "{{count}} results",
+  "searching": "Searching...",
+  "searchNotes": "Search your notes",
+  "tryOther": "Try different keywords",
+  "categories": {
+    "notes": "Notes"
+  },
+  "filters": {
+    "all": "All",
+    "active": "Recent",
+    "archived": "Archived",
+    "snoozed": "Snoozed"
+  }
+}

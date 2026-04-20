@@ -1,0 +1,10 @@
+{
+  "optimizationConfig": "轉錄優化",
+  "optimizationEnabled": "啟用優化",
+  "optimizationLevelLight": "輕度",
+  "optimizationLevelLightDesc": "僅規則清理",
+  "optimizationLevelMedium": "中度",
+  "optimizationLevelMediumDesc": "清理 + LLM 潤色",
+  "optimizationLevelHeavy": "深度",
+  "optimizationLevelHeavyDesc": "完整 LLM 重寫"
+}

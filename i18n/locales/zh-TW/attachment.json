@@ -1,0 +1,11 @@
+{
+  "photos": "照片",
+  "files": "檔案",
+  "selectPhotos": "選擇照片",
+  "selectFiles": "選擇檔案",
+  "selectedCount": "已選擇 {{count}} 項",
+  "addAttachment": "新增附件",
+  "attachment": "附件",
+  "photosAndVideos": "照片和影片",
+  "browseFiles": "瀏覽檔案"
+}

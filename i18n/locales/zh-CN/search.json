@@ -1,0 +1,21 @@
+{
+  "placeholder": "搜索笔记...",
+  "history": "搜索历史",
+  "clear": "清除",
+  "clearAll": "清除全部",
+  "noResults": "没有找到相关笔记",
+  "results": "搜索结果",
+  "resultCount": "{{count}} 条结果",
+  "searching": "搜索中...",
+  "searchNotes": "搜索你的笔记",
+  "tryOther": "试试其他关键词",
+  "categories": {
+    "notes": "笔记"
+  },
+  "filters": {
+    "all": "全部",
+    "active": "最近",
+    "archived": "已归档",
+    "snoozed": "稍后"
+  }
+}

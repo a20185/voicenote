@@ -1,0 +1,15 @@
+{
+  "recording": "녹음 중",
+  "transcribing": "변환 중...",
+  "paused": "일시정지",
+  "tapToRecord": "아래 버튼을 탭하여 녹음 시작",
+  "swipeToCancel": "위로 스와이프하여 취소",
+  "releaseToSend": "놓으면 전송",
+  "editTranscription": "변환 텍스트 편집...",
+  "asrNotConfigured": "ASR 서비스가 설정되지 않아 변환 기능을 사용할 수 없습니다",
+  "recordingInProgress": "녹음 중",
+  "recordingComplete": "녹음 완료",
+  "raw": "원문",
+  "optimized": "최적화",
+  "optimizing": "최적화 중..."
+}

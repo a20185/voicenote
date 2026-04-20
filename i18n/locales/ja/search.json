@@ -1,0 +1,21 @@
+{
+  "placeholder": "ノートを検索...",
+  "history": "検索履歴",
+  "clear": "クリア",
+  "clearAll": "すべてクリア",
+  "noResults": "ノートが見つかりません",
+  "results": "検索結果",
+  "resultCount": "{{count}} 件の結果",
+  "searching": "検索中...",
+  "searchNotes": "ノートを検索",
+  "tryOther": "別のキーワードを試してください",
+  "categories": {
+    "notes": "ノート"
+  },
+  "filters": {
+    "all": "すべて",
+    "active": "最近",
+    "archived": "アーカイブ済み",
+    "snoozed": "あとで"
+  }
+}

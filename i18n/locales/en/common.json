@@ -1,0 +1,21 @@
+{
+  "appName": "Pieces",
+  "loading": "Loading...",
+  "save": "Save",
+  "cancel": "Cancel",
+  "confirm": "Confirm",
+  "delete": "Delete",
+  "retry": "Retry",
+  "done": "Done",
+  "edit": "Edit",
+  "close": "Close",
+  "back": "Back",
+  "add": "Add",
+  "ok": "OK",
+  "yes": "Yes",
+  "no": "No",
+  "saved": "Saved",
+  "saving": "Saving...",
+  "saveFailed": "Save failed",
+  "notice": "Notice"
+}

@@ -1,0 +1,11 @@
+{
+  "photos": "사진",
+  "files": "파일",
+  "selectPhotos": "사진 선택",
+  "selectFiles": "파일 선택",
+  "selectedCount": "{{count}}개 선택됨",
+  "addAttachment": "첨부파일 추가",
+  "attachment": "첨부파일",
+  "photosAndVideos": "사진 및 동영상",
+  "browseFiles": "파일 찾아보기"
+}

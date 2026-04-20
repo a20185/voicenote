@@ -1,0 +1,19 @@
+{
+  "empty": "还没有灵感",
+  "emptyTitle": "还没有灵感",
+  "emptyHint": "选择笔记后点击 AI 分析试试",
+  "insights": "洞察",
+  "actionItems": "行动项",
+  "tags": "标签",
+  "sourceNotes": "源笔记",
+  "noteCount": "{{count}} 条笔记",
+  "highPriority": "高",
+  "mediumPriority": "中",
+  "lowPriority": "低",
+  "immediate": "立即",
+  "shortTerm": "短期",
+  "longTerm": "长期",
+  "today": "今天",
+  "yesterday": "昨天",
+  "daysAgo": "{{count}}天前"
+}

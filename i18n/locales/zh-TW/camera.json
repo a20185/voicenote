@@ -1,0 +1,13 @@
+{
+  "permissionTitle": "相機權限",
+  "permissionMessage": "需要相機權限才能拍照",
+  "allow": "允許",
+  "longPressVideo": "長按錄製影片",
+  "tapPhoto": "點擊拍照",
+  "flip": "翻轉",
+  "retake": "重新拍攝",
+  "loadFailed": "載入相機失敗",
+  "capture": "拍攝",
+  "recordingVideo": "錄影中",
+  "tapPhotoLongVideo": "點擊拍照，長按錄影"
+}

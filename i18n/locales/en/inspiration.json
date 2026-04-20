@@ -1,0 +1,19 @@
+{
+  "empty": "No inspirations yet",
+  "emptyTitle": "No inspirations yet",
+  "emptyHint": "Select notes and try AI analysis",
+  "insights": "Insights",
+  "actionItems": "Action Items",
+  "tags": "Tags",
+  "sourceNotes": "Source Notes",
+  "noteCount": "{{count}} notes",
+  "highPriority": "High",
+  "mediumPriority": "Medium",
+  "lowPriority": "Low",
+  "immediate": "Immediate",
+  "shortTerm": "Short Term",
+  "longTerm": "Long Term",
+  "today": "Today",
+  "yesterday": "Yesterday",
+  "daysAgo": "{{count}} days ago"
+}

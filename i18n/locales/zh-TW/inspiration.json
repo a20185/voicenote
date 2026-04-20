@@ -1,0 +1,11 @@
+{
+  "empty": "還沒有靈感",
+  "emptyTitle": "還沒有靈感",
+  "emptyHint": "選擇筆記後點擊 AI 分析試試",
+  "noteCount": "{{count}} 條筆記",
+  "today": "今天",
+  "yesterday": "昨天",
+  "daysAgo": "{{count}} 天前",
+  "delete": "刪除",
+  "tags": "標籤"
+}

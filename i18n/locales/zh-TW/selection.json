@@ -1,0 +1,9 @@
+{
+  "selected": "{{count}} 已選擇",
+  "selectAll": "全選",
+  "deselectAll": "取消全選",
+  "batchArchive": "批次歸檔",
+  "batchDelete": "批次刪除",
+  "batchMerge": "批次合併",
+  "categorize": "分類"
+}

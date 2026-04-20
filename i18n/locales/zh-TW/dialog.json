@@ -1,0 +1,16 @@
+{
+  "archiveTitle": "歸檔筆記",
+  "archiveMessage": "確定要將此筆記歸檔嗎？歸檔後可在歸檔標籤頁中查看。",
+  "archiveConfirm": "確認歸檔",
+  "deleteTitle": "刪除筆記",
+  "deleteMessage": "確定要刪除此筆記嗎？此操作不可撤銷。",
+  "deleteConfirm": "刪除",
+  "confirmAction": "確認操作",
+  "confirmMessage": "您確定要對選中的 {{count}} 項筆記執行「{{action}}」操作嗎？",
+  "mergeTitle": "合併預覽",
+  "mergeInfo": "{{count}} 條筆記 · {{chars}} 字元",
+  "mergeMediaWarning": "部分筆記包含媒體檔案，合併後僅保留文字內容",
+  "mergePreserveHint": "原始筆記將被保留",
+  "merging": "合併中...",
+  "confirmMerge": "確認合併"
+}

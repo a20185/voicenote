@@ -1,0 +1,17 @@
+{
+  "today": "오늘",
+  "yesterday": "어제",
+  "dayBeforeYesterday": "그저께",
+  "thisWeek": "이번 주",
+  "thisMonth": "이번 달",
+  "lastMonth": "지난달",
+  "thisQuarter": "이번 분기",
+  "thisYear": "올해",
+  "lastYear": "작년",
+  "overAYear": "1년 이상 전",
+  "justNow": "방금",
+  "minutesAgo": "{{count}}분 전",
+  "hoursAgo": "{{count}}시간 전",
+  "daysAgo": "{{count}}일 전",
+  "weeksAgo": "{{count}}주 전"
+}

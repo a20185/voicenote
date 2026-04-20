@@ -1,0 +1,21 @@
+{
+  "appName": "VoiceNote",
+  "loading": "로딩 중...",
+  "save": "저장",
+  "cancel": "취소",
+  "confirm": "확인",
+  "delete": "삭제",
+  "retry": "재시도",
+  "done": "완료",
+  "edit": "편집",
+  "close": "닫기",
+  "back": "뒤로",
+  "add": "추가",
+  "ok": "확인",
+  "yes": "예",
+  "no": "아니오",
+  "saved": "저장됨",
+  "saving": "저장 중...",
+  "saveFailed": "저장 실패",
+  "notice": "알림"
+}

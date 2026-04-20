@@ -1,0 +1,15 @@
+{
+  "archiveTitle": "Archive Note",
+  "archiveMessage": "Are you sure you want to archive this note? You can find it in the Archive tab.",
+  "archiveConfirm": "Confirm Archive",
+  "deleteTitle": "Delete Note",
+  "deleteMessage": "Are you sure you want to delete this note? This action cannot be undone.",
+  "confirmAction": "Confirm Action",
+  "confirmMessage": "Are you sure you want to {{action}} the selected {{count}} notes?",
+  "mergeTitle": "Merge Preview",
+  "mergeInfo": "{{count}} notes · {{chars}} characters",
+  "mergeMediaWarning": "Some notes contain media files. Only text content will be kept after merging",
+  "mergePreserveHint": "Original notes will be preserved",
+  "merging": "Merging...",
+  "confirmMerge": "Confirm Merge"
+}

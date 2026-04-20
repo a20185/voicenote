@@ -1,0 +1,12 @@
+{
+  "addAttachment": "新增附件",
+  "photo": "照片",
+  "photos": "照片",
+  "file": "檔案",
+  "files": "檔案",
+  "selectPhotos": "選擇照片",
+  "selectFiles": "選擇檔案",
+  "selectedCount": "已選擇 {{count}} 項",
+  "gallery": "圖庫",
+  "addMedia": "新增媒體"
+}

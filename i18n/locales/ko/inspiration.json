@@ -1,0 +1,11 @@
+{
+  "empty": "아직 영감이 없습니다",
+  "emptyTitle": "아직 영감이 없습니다",
+  "emptyHint": "노트를 선택하고 AI 분석을 시도해보세요",
+  "noteCount": "{{count}}개 노트",
+  "today": "오늘",
+  "yesterday": "어제",
+  "daysAgo": "{{count}}일 전",
+  "delete": "삭제",
+  "tags": "태그"
+}

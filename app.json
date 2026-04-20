@@ -1,0 +1,85 @@
+{
+  "expo": {
+    "name": "Pieces",
+    "slug": "Pieces",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "scheme": "pieces",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#6366f1"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.pieces.app",
+      "infoPlist": {
+        "NSCameraUsageDescription": "Pieces needs camera access to take photos and videos for your notes.",
+        "NSMicrophoneUsageDescription": "Pieces needs microphone access to record audio notes.",
+        "NSPhotoLibraryUsageDescription": "Pieces needs photo library access to save and select media for your notes.",
+        "NSPhotoLibraryAddUsageDescription": "Pieces needs permission to save photos and videos to your photo library."
+      }
+    },
+    "android": {
+      "package": "com.pieces.app",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#6366f1"
+      },
+      "edgeToEdgeEnabled": true,
+      "permissions": [
+        "android.permission.CAMERA",
+        "android.permission.RECORD_AUDIO",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.READ_MEDIA_AUDIO",
+        "android.permission.READ_MEDIA_IMAGES",
+        "android.permission.READ_MEDIA_VIDEO"
+      ]
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "bundler": "metro"
+    },
+    "assetBundlePatterns": [
+      "assets/**/*"
+    ],
+    "plugins": [
+      "expo-router",
+      "llama.rn",
+      "expo-sqlite",
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "Pieces needs camera access to take photos and videos for your notes."
+        }
+      ],
+      [
+        "expo-audio",
+        {
+          "microphonePermission": "Pieces needs microphone access to record audio notes."
+        }
+      ],
+      "expo-video",
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "Pieces needs photo library access to select media for your notes.",
+          "cameraPermission": "Pieces needs camera access to take photos for your notes."
+        }
+      ],
+      "expo-document-picker",
+      [
+        "expo-media-library",
+        {
+          "photosPermission": "Pieces needs access to save and organize your media files.",
+          "savePhotosPermission": "Pieces needs permission to save photos and videos to your photo library.",
+          "isAccessMediaLocationEnabled": true
+        }
+      ]
+    ]
+  }
+}

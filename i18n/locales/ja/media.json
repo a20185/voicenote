@@ -1,0 +1,12 @@
+{
+  "addAttachment": "添付ファイルを追加",
+  "photo": "写真",
+  "photos": "写真",
+  "file": "ファイル",
+  "files": "ファイル",
+  "selectPhotos": "写真を選択",
+  "selectFiles": "ファイルを選択",
+  "selectedCount": "{{count}} 件選択済み",
+  "gallery": "ギャラリー",
+  "addMedia": "メディアを追加"
+}

@@ -1,0 +1,21 @@
+{
+  "today": "Today",
+  "yesterday": "Yesterday",
+  "dayBeforeYesterday": "2 days ago",
+  "thisWeek": "This Week",
+  "thisMonth": "This Month",
+  "lastMonth": "Last Month",
+  "thisQuarter": "This Quarter",
+  "thisYear": "This Year",
+  "lastYear": "Last Year",
+  "overOneYear": "Over a year ago",
+  "justNow": "Just now",
+  "minutesAgo": "{{count}}m ago",
+  "hoursAgo": "{{count}}h ago",
+  "daysAgo": "{{count}}d ago",
+  "weeksAgo": "{{count}}w ago",
+  "sameDay": "Same day",
+  "oneDay": "1 day",
+  "oneWeek": "1 week",
+  "oneMonth": "1 month"
+}

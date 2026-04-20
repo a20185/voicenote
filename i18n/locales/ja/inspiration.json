@@ -1,0 +1,11 @@
+{
+  "empty": "インスピレーションがありません",
+  "emptyTitle": "インスピレーションはまだありません",
+  "emptyHint": "ノートを選択してAI分析を試してみてください",
+  "noteCount": "{{count}} 件のノート",
+  "today": "今日",
+  "yesterday": "昨日",
+  "daysAgo": "{{count}} 日前",
+  "delete": "削除",
+  "tags": "タグ"
+}

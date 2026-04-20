@@ -1,0 +1,9 @@
+{
+  "startRecording": "녹음 시작",
+  "stopRecording": "녹음 중지",
+  "pauseRecording": "녹음 일시정지",
+  "resumeRecording": "녹음 재개",
+  "playback": "재생",
+  "speed": "속도",
+  "normalSpeed": "일반 속도"
+}

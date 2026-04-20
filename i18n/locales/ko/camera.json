@@ -1,0 +1,13 @@
+{
+  "permissionTitle": "카메라 권한",
+  "permissionMessage": "사진을 찍으려면 카메라 권한이 필요합니다",
+  "allow": "허용",
+  "longPressVideo": "길게 눌러 동영상 촬영",
+  "tapPhoto": "탭하여 사진 촬영",
+  "flip": "전환",
+  "retake": "다시 촬영",
+  "loadFailed": "카메라 로드 실패",
+  "capture": "촬영",
+  "recordingVideo": "녹화 중",
+  "tapPhotoLongVideo": "탭하여 사진, 길게 눌러 동영상"
+}

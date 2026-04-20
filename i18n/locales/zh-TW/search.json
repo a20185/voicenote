@@ -1,0 +1,21 @@
+{
+  "placeholder": "搜尋筆記...",
+  "history": "搜尋歷史",
+  "clear": "清除",
+  "clearAll": "清除全部",
+  "noResults": "沒有找到相關筆記",
+  "results": "搜尋結果",
+  "resultCount": "{{count}} 條結果",
+  "searching": "搜尋中...",
+  "searchNotes": "搜尋你的筆記",
+  "tryOther": "試試其他關鍵詞",
+  "categories": {
+    "notes": "筆記"
+  },
+  "filters": {
+    "all": "全部",
+    "active": "最近",
+    "archived": "已歸檔",
+    "snoozed": "稍後"
+  }
+}

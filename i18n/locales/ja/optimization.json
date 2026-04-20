@@ -1,0 +1,10 @@
+{
+  "optimizationConfig": "トランスクリプション最適化",
+  "optimizationEnabled": "最適化を有効にする",
+  "optimizationLevelLight": "ライト",
+  "optimizationLevelLightDesc": "ルールベースのクリーニングのみ",
+  "optimizationLevelMedium": "ミディアム",
+  "optimizationLevelMediumDesc": "クリーニング + LLM調整",
+  "optimizationLevelHeavy": "ヘビー",
+  "optimizationLevelHeavyDesc": "完全なLLM書き換え"
+}

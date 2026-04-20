@@ -1,0 +1,15 @@
+{
+  "recording": "錄音中",
+  "transcribing": "轉錄中...",
+  "paused": "已暫停",
+  "tapToRecord": "點擊下方按鈕開始錄音",
+  "swipeToCancel": "上滑取消",
+  "releaseToSend": "鬆開發送",
+  "editTranscription": "編輯轉錄文字...",
+  "asrNotConfigured": "ASR 服務未設定，轉錄功能不可用",
+  "recordingInProgress": "正在錄音",
+  "recordingComplete": "錄音完成",
+  "raw": "原文",
+  "optimized": "優化",
+  "optimizing": "優化中..."
+}

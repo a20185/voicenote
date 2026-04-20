@@ -1,0 +1,12 @@
+{
+  "addAttachment": "Add Attachment",
+  "photos": "Photos",
+  "files": "Files",
+  "selectPhotos": "Select Photos",
+  "selectFiles": "Select Files",
+  "selectedCount": "{{count}} selected",
+  "gallery": "Gallery",
+  "document": "Document",
+  "audio": "Audio",
+  "video": "Video"
+}

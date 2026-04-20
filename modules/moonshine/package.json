@@ -1,0 +1,21 @@
+{
+  "name": "moonshine-module",
+  "version": "1.0.0",
+  "description": "Moonshine ASR TurboModule for React Native",
+  "main": "index.ts",
+  "react-native": "index.ts",
+  "source": "index.ts",
+  "codegenConfig": {
+    "name": "RNMoonshineSpec",
+    "type": "modules",
+    "jsSrcsDir": "src",
+    "ios": {
+      "modulesProvider": {
+        "MoonshineModule": "MoonshineModule"
+      }
+    }
+  },
+  "dependencies": {
+    "react-native": ">=0.71"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "appName": "Pieces",
+  "loading": "加载中...",
+  "save": "保存",
+  "cancel": "取消",
+  "confirm": "确认",
+  "delete": "删除",
+  "retry": "重试",
+  "done": "完成",
+  "edit": "编辑",
+  "close": "关闭",
+  "back": "返回",
+  "add": "添加",
+  "ok": "好的",
+  "yes": "是",
+  "no": "否",
+  "saved": "已保存",
+  "saving": "保存中...",
+  "saveFailed": "保存失败",
+  "notice": "提示"
+}

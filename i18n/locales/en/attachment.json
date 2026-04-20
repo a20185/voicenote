@@ -1,0 +1,11 @@
+{
+  "photos": "Photos",
+  "files": "Files",
+  "selectPhotos": "Select Photos",
+  "selectFiles": "Select Files",
+  "selectedCount": "{{count}} selected",
+  "addAttachment": "Add Attachment",
+  "attachment": "Attachment",
+  "photosAndVideos": "Photos & Videos",
+  "browseFiles": "Browse Files"
+}

@@ -1,0 +1,13 @@
+{
+  "permission": "Camera Permission",
+  "permissionMessage": "Camera permission is required to take photos",
+  "allow": "Allow",
+  "longPressVideo": "Long press to record video",
+  "tapToPhoto": "Tap to take photo",
+  "flip": "Flip",
+  "retake": "Retake",
+  "loadFailed": "Failed to load camera",
+  "capture": "Capture",
+  "recordingVideo": "Recording",
+  "tapPhotoLongVideo": "Tap for photo, hold for video"
+}

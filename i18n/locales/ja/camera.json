@@ -1,0 +1,13 @@
+{
+  "permissionTitle": "カメラの権限",
+  "permissionMessage": "写真を撮るにはカメラの権限が必要です",
+  "allow": "許可",
+  "longPressVideo": "長押しで動画撮影",
+  "tapPhoto": "タップで撮影",
+  "flip": "反転",
+  "retake": "撮り直し",
+  "loadFailed": "カメラの読み込みに失敗",
+  "capture": "撮影",
+  "recordingVideo": "録画中",
+  "tapPhotoLongVideo": "タップで撮影、長押しで動画"
+}

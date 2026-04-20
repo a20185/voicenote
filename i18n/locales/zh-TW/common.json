@@ -1,0 +1,21 @@
+{
+  "appName": "VoiceNote",
+  "loading": "載入中...",
+  "save": "儲存",
+  "cancel": "取消",
+  "confirm": "確認",
+  "delete": "刪除",
+  "retry": "重試",
+  "done": "完成",
+  "edit": "編輯",
+  "close": "關閉",
+  "back": "返回",
+  "add": "新增",
+  "ok": "好的",
+  "yes": "是",
+  "no": "否",
+  "saved": "已儲存",
+  "saving": "儲存中...",
+  "saveFailed": "儲存失敗",
+  "notice": "提示"
+}

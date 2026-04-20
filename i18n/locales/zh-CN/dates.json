@@ -1,0 +1,21 @@
+{
+  "today": "今天",
+  "yesterday": "昨天",
+  "dayBeforeYesterday": "前天",
+  "thisWeek": "本周",
+  "thisMonth": "本月",
+  "lastMonth": "上月",
+  "thisQuarter": "本季度",
+  "thisYear": "本年",
+  "lastYear": "去年",
+  "overOneYear": "1年以前",
+  "justNow": "刚刚",
+  "minutesAgo": "{{count}}分钟前",
+  "hoursAgo": "{{count}}小时前",
+  "daysAgo": "{{count}}天前",
+  "weeksAgo": "{{count}}周前",
+  "sameDay": "同一天",
+  "oneDay": "1天",
+  "oneWeek": "1周",
+  "oneMonth": "1个月"
+}

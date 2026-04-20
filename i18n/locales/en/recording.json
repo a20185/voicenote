@@ -1,0 +1,15 @@
+{
+  "recording": "Recording",
+  "transcribing": "Transcribing...",
+  "paused": "Paused",
+  "tapToRecord": "Tap the button below to start recording",
+  "swipeToCancel": "Swipe up to cancel",
+  "releaseToSend": "Release to send",
+  "editTranscription": "Edit transcription...",
+  "asrNotConfigured": "ASR service not configured, transcription unavailable",
+  "recordingInProgress": "Recording in progress",
+  "recordingComplete": "Recording complete",
+  "raw": "Raw",
+  "optimized": "Optimized",
+  "optimizing": "Optimizing..."
+}

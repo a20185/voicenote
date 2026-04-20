@@ -1,0 +1,16 @@
+{
+  "archiveTitle": "노트 보관",
+  "archiveMessage": "이 노트를 보관하시겠습니까? 보관 탭에서 확인할 수 있습니다.",
+  "archiveConfirm": "보관 확인",
+  "deleteTitle": "노트 삭제",
+  "deleteMessage": "이 노트를 삭제하시겠습니까? 이 작업은 되돌릴 수 없습니다.",
+  "deleteConfirm": "삭제",
+  "confirmAction": "작업 확인",
+  "confirmMessage": "선택한 {{count}}개 노트에 \"{{action}}\" 작업을 수행하시겠습니까?",
+  "mergeTitle": "병합 미리보기",
+  "mergeInfo": "{{count}}개 노트 · {{chars}}자",
+  "mergeMediaWarning": "일부 노트에 미디어 파일이 포함되어 있습니다. 병합 후 텍스트만 유지됩니다",
+  "mergePreserveHint": "원본 노트는 보존됩니다",
+  "merging": "병합 중...",
+  "confirmMerge": "병합 확인"
+}

@@ -1,0 +1,10 @@
+{
+  "optimizationConfig": "转录优化",
+  "optimizationEnabled": "启用优化",
+  "optimizationLevelLight": "轻度",
+  "optimizationLevelLightDesc": "仅规则清理",
+  "optimizationLevelMedium": "中度",
+  "optimizationLevelMediumDesc": "清理 + LLM 润色",
+  "optimizationLevelHeavy": "深度",
+  "optimizationLevelHeavyDesc": "完整 LLM 重写"
+}
